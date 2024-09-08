@@ -3,7 +3,7 @@ package grpc_client
 import (
 	"sync"
 
-	"hshelby-tkcled-proto/golang/authenticator"
+	"github.com/hshelby-tkcled/proto/golang/authenticator"
 
 	"google.golang.org/grpc"
 )

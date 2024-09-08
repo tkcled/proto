@@ -1,4 +1,4 @@
-module hshelby-tkcled-proto
+module github.com/hshelby-tkcled/proto
 
 go 1.21.5
 
